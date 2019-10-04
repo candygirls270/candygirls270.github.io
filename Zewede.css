@@ -1,0 +1,56 @@
+ul li{
+  display:inline-block;
+  color:blue;
+  margin-left:50px;
+}
+ul{text-align:left;
+  padding:10px;
+}
+body{background-size:cover;
+    background-color:white;
+    background-repeat:no-repeat;
+    height:100vh;
+}
+a:hover{
+  color:green;
+}
+section{
+  background-color:purple;
+  height:750px;
+  width:70%;
+  color:red;
+  float:right;
+  padding:10px;
+}
+header{
+  background-color:grey;
+}
+aside{
+  width:25%;
+  background-color:green;
+  height:500px;
+  padding:15px;
+  float:left;
+}
+h1{
+  font-size:30px;
+  font-weight:bold;
+  font-family:sans-serif;
+}
+#hero{
+  color:red;
+  font-size:50px;
+  text-align:center;
+  margin-top:100px;
+}
+button{
+  padding:20px;
+  background-color:green;
+  color:red;
+  margin-left:600px;
+  border-radius:150px;
+  margin-top:120px;
+}
+.btn:hover{
+  background-color:purple;
+}
