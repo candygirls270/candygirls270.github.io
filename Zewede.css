@@ -16,7 +16,7 @@ a:hover{
 }
 section{
   background-color:purple;
-  height:750px;
+  height:350px;
   width:70%;
   color:red;
   float:right;
@@ -28,7 +28,7 @@ header{
 aside{
   width:25%;
   background-color:green;
-  height:500px;
+  height:330px;
   padding:15px;
   float:left;
 }
